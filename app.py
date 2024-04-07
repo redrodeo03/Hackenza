@@ -41,6 +41,7 @@ if file is not None:
         data=data.to_csv(index=False),
         file_name='dataframe.csv',
         mime='text/csv',
+        key="1"
     )
 
 st.title(":Red[Raw]Data")
@@ -65,6 +66,7 @@ if file is not None:
         data=data.to_csv(index=False),
         file_name='dataframe.csv',
         mime='text/csv',
+        key="2"
     )
 
 st.header("Count of Individual Contributions for Q1 Journals: ")
@@ -84,4 +86,5 @@ if file is not None:
         data=data.to_csv(index=False),
         file_name='dataframe.csv',
         mime='text/csv',
+        key = "3"
     )
