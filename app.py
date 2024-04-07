@@ -44,10 +44,7 @@ if file is not None:
         key="1"
     )
 
-st.title(":Red[Raw]Data")
-st.header("Scraped Data Dump of all A/A* conferences and Q1 Journals: ")
-
-
+st.title(":orange[Raw]Data")
 
 st.header("Count of Individual Contributions for A/A* Conferences: ")
 
