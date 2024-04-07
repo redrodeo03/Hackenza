@@ -42,7 +42,7 @@ Only publications under type Articles, proceedings, and in-proceedings were extr
 #### *High-Quality Publication Identification*
 Names of Q1 journals were extracted from https://www.scimagojr.com/journalrank.php. Since the names extracted from DBLP database were in iso4 format we had to convert these to iso4 format as well.
 
-A*/A* conferences were identified from http://portal.core.edu.au/conf-ranks/.
+A/A* conferences were identified from http://portal.core.edu.au/conf-ranks/.
 
 #### *Data Refinement:*
 
