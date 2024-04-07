@@ -1,8 +1,8 @@
-# Hackenza - 2023 - https://hackenza.streamlit.app/
+# Hackenza - 2024 - https://hackenza.streamlit.app/
 ### *Project Overview*
 
 This project aims to create a ranking system for Computer Science (CS) institutions in India, focusing on research output relevant to the Indian academic landscape.
-We address the limitations of existing ranking systems, such as CSRankings (https://csrankings.org/), which prioritize expensive, international conferences often inaccessible to Indian researchers.
+We address the limitations of existing ranking systems, such as CSRankings (https://csrankings.org/) for the year 2023, which prioritize expensive, international conferences often inaccessible to Indian researchers.
 
 
 ### *Target Institutions*
@@ -67,5 +67,5 @@ A potential solution on how to categorize the research areas has been implemente
 2. Improve the ranking formula by doing this segmentation and adjusting the formula as on csrankings.org
 3. The pipeline is set in such a way that this can easily be expanded to other IIT's and NIT's and other esteemed organizations of India. The data dump we have created is crucial for the same.
 
-### Data Dump Link - Contains all publications in the Q1 Journals and A/A* Conferences in 2023
+### Data Dump Link - Contains relevant subset of DBLP Database Dump in 2023
 (https://drive.google.com/drive/folders/1XARQJLkhXWKr1SEXg1ommHUJgFARaUNJ?usp=drive_link)
