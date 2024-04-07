@@ -1,4 +1,4 @@
-# Hackenza - 2023
+# Hackenza - 2023 - https://hackenza.streamlit.app/
 ### *Project Overview*
 
 This project aims to create a ranking system for Computer Science (CS) institutions in India, focusing on research output relevant to the Indian academic landscape.
