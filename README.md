@@ -66,3 +66,6 @@ A potential solution on how to categorize the research areas has been implemente
 1. Including the classification of research papers into different computer science research areas.
 2. Improve the ranking formula by doing this segmentation and adjusting the formula as on csrankings.org
 3. The pipeline is set in such a way that this can easily be expanded to other IIT's and NIT's and other esteemed organizations of India. The data dump we have created is crucial for the same.
+
+### Data Dump Link - Contains all publications in the Q1 Journals and A/A* Conferences in 2023
+(https://drive.google.com/drive/folders/1XARQJLkhXWKr1SEXg1ommHUJgFARaUNJ?usp=drive_link)
